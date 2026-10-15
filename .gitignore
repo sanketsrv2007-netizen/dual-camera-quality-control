@@ -1,0 +1,16 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+*.csv
+*.zip
+Thumbs.db
+.DS_Store
+
+# Superseded intermediate program versions
+final-code_step[1-9].py
+final-code_step10.py

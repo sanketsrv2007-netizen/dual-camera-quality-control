@@ -1,0 +1,6 @@
+
+numpy>=1.24,<3
+opencv-python>=4.8,<5
+pyserial>=3.5
+gpiozero>=2.0
+RPi.GPIO>=0.7.1
